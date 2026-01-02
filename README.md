@@ -12,6 +12,7 @@ If my code makes you smile: totally normal.
 If you understand all of it: legendary.
 Feedback, ideas, and nerdy conversations are always welcome.
 
+---
 
 ## Skills & Technologies
 
@@ -21,6 +22,9 @@ Feedback, ideas, and nerdy conversations are always welcome.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <br />
+
+---
+
 ## Top Projects
 
 - [GOGE](https://github.com/1IntereJurry/GOGE) - A project showcasing my work in C#. Stars: 0, Primary Language: C#, Forks: 0, Open Issues: 0
