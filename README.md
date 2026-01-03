@@ -27,7 +27,7 @@ Feedback, ideas, and nerdy conversations are always welcome.
 
 ## Top Projects
 
-- [GOGE](https://github.com/1IntereJurry/GOGE) - A project showcasing my work in C#. Stars: 0, Primary Language: C#, Forks: 0, Open Issues: 0
+[GOGE](https://github.com/1IntereJurry/GOGE) - A project showcasing my work in C#. Stars: 0, Primary Language: C#, Forks: 0, Open Issues: 0
 
 ## GitHub Stats
 
