@@ -27,7 +27,7 @@ Feedback, ideas, and nerdy conversations are always welcome.
 
 ## Top Projects
 
-[GOGE](https://github.com/1IntereJurry/GOGE) - It may look like a simple C# console game, but it is mor than that... Stars: 0, Primary Language: C#, Forks: 0, Open Issues: 0
+[GOGE](https://github.com/1IntereJurry/GOGE) - It may look like a simple C# console game, but it is more than that... Stars: 0, Primary Language: C#, Open Issues: 0
 
 ## GitHub Stats
 
