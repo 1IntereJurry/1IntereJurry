@@ -33,7 +33,7 @@ Feedback, ideas, and nerdy conversations are always welcome.
 ## GitHub Stats
 
 ![1IntereJurry's GitHub stats](https://github-readme-stats.vercel.app/api?username=1IntereJurry&theme=dark&show_icons=true)
-Public Repos: **1** | Followers: **0** | Following: **1**
+Public Repos: **3** | Followers: **0** | Following: **1**
 
 ## Recent Activity
 
